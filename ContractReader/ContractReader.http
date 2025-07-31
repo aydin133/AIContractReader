@@ -1,0 +1,6 @@
+@ContractReader_HostAddress = http://localhost:5287
+
+GET {{ContractReader_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
